@@ -1,0 +1,21 @@
+export const data = [
+  ["Alanine (A)", "N.A.", "N.A.", "N.A.", "Down (p < 0.0001)", "N.A.", "N.A."],
+  ["Arginine (R)", "N.A.", "N.A.", "N.A.", "Down (p < 0.0001)", "N.A.", "N.A."],
+  ["Asparagine (N)", "N.A.", "N.A.", "Down (p = 0.0162)", "Down (p < 0.0001)", "N.A.", "N.A."],
+  ["Aspartic acid (D)", "Up (p < 0.05)", "N.A.", "N.A.", "N.A.", "N.A.", "N.A."],
+  ["Cysteine (C)", "N.A.", "N.A.", "N.A.", "N.A.", "N.A.", "N.A."],
+  ["Glutamine (Q)", "Up (p < 0.05)", "N.A.", "Down (p = 0.0072)", "N.A.", "N.A.", "N.A."],
+  ["Glutamic acid (E)", "Up (p < 0.05)", "N.A.", "N.A.", "N.A.", "N.A.", "N.A."],
+  ["Glycine (G)", "N.A.", "N.A.", "N.A.", "N.A.", "N.A.", "N.A."],
+  ["Histidine (H)", "N.A.", "N.A.", "Down (p < 0.0001)", "Down (p < 0.0001)", "N.A.", "N.A."],
+  ["Isoleucine (I)", "Up (p < 0.05)", "N.A.", "N.A.", "N.A.", "Up (p = 0.0005)", "Up (p < 0.05)"],
+  ["Leucine (L)", "Up (p < 0.05)", "N.A.", "N.A.", "Down (p < 0.01)", "Up (p = 0.002)", "N.A."],
+  ["Lysine (K)", "N.A.", "N.A.", "Down (p = 0.0005)", "Down (p < 0.0001)", "N.A.", "N.A."],
+  ["Methionine (M)", "N.A.", "N.A.", "Down (p = 0.0056)", "Down (p < 0.0001)", "N.A.", "N.A."],
+  ["Phenylalanine (F)", "Up (p < 0.05)", "N.A.", "N.A.", "Down (p < 0.01)", "N.A.", "N.A."],
+  ["Serine (S)", "N.A.", "N.A.", "N.A.", "Up (p < 0.0001)", "N.A.", "N.A."],
+  ["Threonine (T)", "N.A.", "Up (p < 0.01)", "Down (p = 0.0385)", "Down (p < 0.0001)", "N.A.", "N.A."],
+  ["Tryptophan (W)", "Up (p < 0.05)", "Up (p < 0.01)", "N.A.", "Down (p < 0.0001)", "N.A.", "N.A."],
+  ["Tyrosine (Y)", "N.A.", "N.A.", "N.A.", "Down (p < 0.0001)", "N.A.", "N.A."],
+  ["Valine (V)", "Up (p < 0.05)", "N.A.", "Down (p = 0.0009)", "Down (p < 0.0001)", "Up (p = 0.003)", "N.A."]
+];
